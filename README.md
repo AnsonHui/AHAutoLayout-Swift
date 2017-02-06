@@ -58,7 +58,7 @@ $ pod install
 ### Create an NSLayoutConstraints
 
 ```swift
-import AHAutoLayout-Swift
+import AHAutoLayout_Swift
 
 view.left == parentView.left + 10
 // is equal to 
